@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'Vazirmatn';
+  src: url('../assets/fonts/Vazirmatn-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Vazirmatn', sans-serif;
+  background-color: #f8f9fa;
+  color: #212529;
+}
+
+textarea {
+  font-family: 'Vazirmatn', sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+#convert
+{
+ margin-top: 5px;
+}
+
+#copyBtn
+{
+  margin-top: 5px;
+  font-size: 18px;
+}
+#clearBtn {
+  font-size: 20px;
+  cursor: pointer;
+
+}
